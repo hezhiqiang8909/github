@@ -12,10 +12,6 @@
 
 博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击[联系博客作者](https://k8sadmin.info/lian-xi-zuo-zhe)
 
-我的微信公众号：
-
-![qrcode](.gitbook/assets/qrcode.jpg)
-
 ## License
 
 ![cc](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
