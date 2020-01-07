@@ -1,18 +1,20 @@
-#Github 漫游指南
+# Github 漫游指南
 
 2014年，写了一个《[一步步搭建物联网系统](https://github.com/phodal/designiot)》。
 
 2015.3.9号，想着写个《Github漫游指南》，于是在最开始的地方写着：
 
-> 我的Github主页上写着加入的时间——``Joined on Nov 8, 2010``，那时才大一，在那之后的那长日子里我都没有过到。也许是因为我学的不是计算机，到了今天——``2015.3.9``，我也发现这其实是程序员的社交网站。
+> 我的Github主页上写着加入的时间——`Joined on Nov 8, 2010`，那时才大一，在那之后的那长日子里我都没有过到。也许是因为我学的不是计算机，到了今天——`2015.3.9`，我也发现这其实是程序员的社交网站。
 
 但是过了很久都没有动静，今天是2015.10.24，我想是时候完成这个目标了。
 
-##其他
+## 其他
+
+博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击[联系博客作者](https://k8sadmin.info/lian-xi-zuo-zhe)
 
 我的微信公众号：
 
-![qrcode](./img/qrcode.jpg)
+![qrcode](.gitbook/assets/qrcode.jpg)
 
 ## License
 
